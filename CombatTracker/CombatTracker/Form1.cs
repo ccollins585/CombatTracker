@@ -838,5 +838,17 @@ namespace CombatTracker
                 }
             }
         }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            // Prompt the user if they are sure they want to exit
+            DialogResult result = MessageBox.Show("Are you sure you want to exit?", "Confirm Exit", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+            // If the user clicks Yes, close the application
+            if (result == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+        }
     }
 }
