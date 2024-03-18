@@ -1,0 +1,10 @@
+C:\Users\chris\OneDrive\Desktop\D&D\DMTracker\CombatTracker2\CombatTracker2\CombatTracker2\bin\Debug\CombatTracker2.exe.config
+C:\Users\chris\OneDrive\Desktop\D&D\DMTracker\CombatTracker2\CombatTracker2\CombatTracker2\bin\Debug\CombatTracker2.exe
+C:\Users\chris\OneDrive\Desktop\D&D\DMTracker\CombatTracker2\CombatTracker2\CombatTracker2\bin\Debug\CombatTracker2.pdb
+C:\Users\chris\OneDrive\Desktop\D&D\DMTracker\CombatTracker2\CombatTracker2\CombatTracker2\obj\Debug\CombatTracker2.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\D&D\DMTracker\CombatTracker2\CombatTracker2\CombatTracker2\obj\Debug\CombatTracker2.Form1.resources
+C:\Users\chris\OneDrive\Desktop\D&D\DMTracker\CombatTracker2\CombatTracker2\CombatTracker2\obj\Debug\CombatTracker2.Properties.Resources.resources
+C:\Users\chris\OneDrive\Desktop\D&D\DMTracker\CombatTracker2\CombatTracker2\CombatTracker2\obj\Debug\CombatTracker2.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\D&D\DMTracker\CombatTracker2\CombatTracker2\CombatTracker2\obj\Debug\CombatTracker2.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\D&D\DMTracker\CombatTracker2\CombatTracker2\CombatTracker2\obj\Debug\CombatTracker2.exe
+C:\Users\chris\OneDrive\Desktop\D&D\DMTracker\CombatTracker2\CombatTracker2\CombatTracker2\obj\Debug\CombatTracker2.pdb
